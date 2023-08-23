@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <title></title>
+    <title>My php</title>
   </head>
   <body>
 <!--php-->
